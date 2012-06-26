@@ -52,6 +52,14 @@ NIL
 
 -----------------------------------------------------------------------
 
+Contact Info
+
+If u find bugs or have any idea about making cl-attribs better please contact me at
+
+farzadbekran@gmail.com
+
+-----------------------------------------------------------------------
+
 Copyright (c) 2012 Farzad Bekran
 
 
