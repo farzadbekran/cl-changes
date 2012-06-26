@@ -54,7 +54,7 @@ NIL
 
 Contact Info
 
-If u find bugs or have any idea about making cl-attribs better please contact me at
+If u find bugs or have any idea about making cl-changes better please contact me at
 
 farzadbekran@gmail.com
 
